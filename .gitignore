@@ -1,3 +1,4 @@
+.idea
 .vscode
 .hypothesis
 **/*.pyc
@@ -11,3 +12,5 @@ pattern/graphs/*.txt
 pattern/graphs/own-graphs
 new/graphs/*.txt
 new/graphs/own-graphs
+nac/graphs/*.txt
+nac/graphs/own-graphs
